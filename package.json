@@ -1,0 +1,15 @@
+{
+  "name": "you-deco-rar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "node-unrar-js": "^2.0.0",
+    "ora": "^6.1.2"
+  },
+  "bin": {
+    "you-deco-rar": "./index.js"
+  }
+}
